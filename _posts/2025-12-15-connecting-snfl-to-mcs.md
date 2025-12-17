@@ -13,8 +13,6 @@ image:
 ---
 # Connecting Snowflake to Copilot Studio: Step-by-Step Guide
 
-![Better Together - Copilot and Snowflake](/assets/posts/SNFL-MCS/SNFL-MCS.jpg)
-
 ## Overview
 
 By linking Snowflake as a knowledge source for Copilot Studio, you enable real-time querying of your data via natural-language agents — without duplicating data or building custom ETL. Copilot can treat your Snowflake tables as first-class data sources, letting agents answer questions, run analytics, or power workflows based on live data.
